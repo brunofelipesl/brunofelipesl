@@ -14,6 +14,7 @@ My name is Bruno Felipe and I'm a software developer. I have a degree in compute
 - Task automation using N8N
 - Creation of AI agents using N8N
 - Data analysis, creation and maintenance of Business Intelligence (BI) using platforms such as Grafana and Qlik.
+
 and more!
 
 
