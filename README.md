@@ -34,4 +34,4 @@ and more!
 [![My Skills](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
 
 *I also like!*
-[![My Skills](https://skillicons.dev/icons?i=unity,unreal,gamemakerstudio,c,cpp,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,unreal,gamemakerstudio,c,cpp,java,go)](https://skillicons.dev)
